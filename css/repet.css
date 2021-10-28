@@ -1,0 +1,23 @@
+html,body,div,h1,h2,h3,h4,h5,h6,table,tr,form,p,ul,ol,li,dt,dl,dd{
+	margin: 0;
+	padding: 0;
+}
+html{
+	font-size: 12px;
+}
+a{
+	text-decoration: none;
+	color: #000;
+}
+img,input,button{
+	border: 0;
+}
+input,textarea,select{
+	outline: none;	
+}
+textarea{
+	resize: none;
+}
+ol,ul,li{
+	list-style: none;
+}
